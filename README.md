@@ -1,7 +1,7 @@
 # Talouden-seuranta
 
 ## Purpose
-This web-app allowa user to track personal income and cost, and follow up the balance.
+This web-app allows user to track personal income and cost, and follow up the balance. The user-interface is in finnish only.
 
 # Technologies
 React, node, typescript and MUI
